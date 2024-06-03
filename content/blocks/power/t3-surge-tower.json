@@ -1,0 +1,18 @@
+{
+    "type": "PowerNode",
+    "name": "Огромная кинетическая вышка",
+    "description": "Силовой узел с очень большим радиусом действия, но может подключаться только к 3 узлам.",
+    "size": 1,
+    "health": 500,
+    "laserRange": 80,
+    "maxNodes": 3,
+    "requirements": [
+      { "item": "lead", "amount": 40},
+      { "item": "titanium", "amount": 24},
+      { "item": "silicon", "amount": 40},
+      { "item": "phase-fabric", "amount": 10},
+      { "item": "surge-alloy", "amount": 40},
+      ],
+    "category": "power",
+    "research": "surge-tower"
+  }
