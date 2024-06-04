@@ -1,9 +1,9 @@
 {
   "type": "PowerNode",
   "name": "Кинетический силовой узел",
-  "description": "Лучше, чем Титановый силовой узел",
+  "description": "Улучшенная версия титанового силового узла. Очень хрупкий.",
   "size": 1,
-  "health": 500,
+  "health": 50,
   "laserRange": 24,
   "maxNodes": 32,
   "requirements": [
